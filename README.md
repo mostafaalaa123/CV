@@ -1,3 +1,3 @@
 # CV
 
-https://mostafaalaa123.github.io/Portifolio/
+https://mostafaalaa123.github.io/CV/
